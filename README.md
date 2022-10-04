@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @github-honda
-- 👀 Take a look at https://www.011.idv.tw/
+- 👋 Hi, My name is Honda. Welcome to my lab.  
+- Take a look at 👀  https://www.011.idv.tw/ 👀 
 
 <!---
 - 👋 Hi, I’m @github-honda
