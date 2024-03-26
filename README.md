@@ -1,8 +1,8 @@
-- 👋 Hi, My name is Honda. Welcome to my lab.  
+- 👋 Welcome to my lab.  
 - Take a look at 👀  https://www.011.idv.tw/ 👀 
 
 <!---
-- 👋 Hi, I’m @github-honda
+- 👋 My account = @github-honda
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
